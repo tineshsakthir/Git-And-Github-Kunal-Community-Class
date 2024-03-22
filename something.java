@@ -1,1 +1,2 @@
 hajimemashite
+valka valamudan
