@@ -1,1 +1,2 @@
 hajimemashite
+welcome to japan
