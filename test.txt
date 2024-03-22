@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 hi there , i love pain
 =======
-hi there i love marvels
->>>>>>> 8dcea324ae1008b10412a798ad578d9cf431f615
+hi there , i love marvels
+
